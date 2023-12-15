@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CheckActivity</string>
+    <string name="checkbox">CheckBox</string>
+</resources>
